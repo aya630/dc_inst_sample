@@ -112,6 +112,10 @@ const questions = [
         correctAnswer: "28. 隻眼の残像",
         songUrl: "audio/28.mp3",
     },
+　　{
+        correctAnswer: "29. ハイウェイの堕天使",
+        songUrl: "audio/29.mp3",
+    },
 ];
 
 // ページの読み込みが完了したら実行
